@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66b8ee37-4a6d-49b0-a51b-caec956706eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeption.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LocalMemoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LowMemoryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoSuchElementException.java" afterDir="false" />
-    </list>
+    <list default="true" id="66b8ee37-4a6d-49b0-a51b-caec956706eb" name="Changes" comment="Exeption.iml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +56,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684934888315</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exeption.iml">
+      <created>1684936434420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684936434420</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exeption.iml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exeption.iml" />
   </component>
 </project>
